@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"4.7.9","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"assignment4"},
+{"type":"table","name":"users","database":"assignment4","data":
+[
+{"id":"4","name":"Janine"},
+{"id":"2","name":"Marie"},
+{"id":"5","name":"Mikel"},
+{"id":"3","name":"Sean"},
+{"id":"1","name":"testuser"}
+]
+}
+]
